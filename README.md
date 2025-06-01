@@ -1,4 +1,4 @@
-# Machine Learning et Data Science appliqués au Trading Quantitatif
+# Trading Quantitatif
  
 Ce projet a été réalisé dans le cadre du cours **IND8123 - Technologies Financières pour Ingénieurs** à Polytechnique Montréal.
 
