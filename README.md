@@ -1,16 +1,12 @@
 # Machine Learning et Data Science appliqués au Trading Quantitatif
-
----
-
-## Présentation
  
-Ce projet a été réalisé dans le cadre du cours **IND8123 - Technologie Financière pour Ingénieur** à Polytechnique Montréal.
+Ce projet a été réalisé dans le cadre du cours **IND8123 - Technologies Financières pour Ingénieurs** à Polytechnique Montréal.
 
 L’objectif principal de ce projet est de se mettre dans la peau d’un trader quantitatif et d’utiliser différents **indicateurs techniques** ainsi que des **modèles de machine learning** pour prédire l’évolution de titres boursiers (*Google, Microsoft, Apple et Tesla*).
 
 Le projet met en pratique :
 - L’analyse d’indicateurs techniques classiques (RSI, bandes de Bollinger, Chaikin Money Flow, etc.)
-- La création de règles de trading simples
+- La création de règles de trading algorithmique simples
 - L’entraînement et la comparaison de plusieurs modèles d’apprentissage automatique pour la prévision des rendements boursiers à court terme
 
 ---
@@ -93,29 +89,19 @@ Le projet met en pratique :
 - **Trading basé sur les modèles**  
   L’utilisation des signaux issus des modèles de machine learning permet d’automatiser la prise de décision et d’améliorer la réactivité du trading, mais l’avantage peut être limité par l’overfitting et la non-stationnarité des marchés.
 
-Exemples d’outputs visuels (graphiques, matrices de confusion, etc.) :
+## Exemples d’outputs visuels
 
 ### Graphique de performance de trading selon l'indicateur RSI Credit sur 5 jours
 ![image](https://github.com/user-attachments/assets/4e0aa2ac-1534-4eab-9af6-8f32c893d240)
 
 ### Graphique de performance de trading par Régression Logistique
-![image](https://github.com/user-attachments/assets/6fd4314c-1808-4829-b5cb-30023634b725)
+![image](https://github.com/user-attachments/assets/2c4727bb-4ab5-4061-abb4-9d369b092150)
 
 ### Exemple de matrice de confusion
-![image](https://github.com/user-attachments/assets/ad79fa11-9ce6-4a3f-8587-625f55479815)
+![image](https://github.com/user-attachments/assets/b13fb1a1-97d7-469f-bb86-c4556310339c)
 
 ### Exemple d'arbre de décision
-![image](https://github.com/user-attachments/assets/b21941aa-ef09-40a9-87a0-21e31eacdb2c)
-
-
----
-
-## Apprentissage personnel
-
-Ce projet m’a permis de :
-- Consolider mes compétences en **Data Science appliquée à la finance**
-- Utiliser concrètement le **Machine Learning** pour la prévision financière
-- Mieux comprendre les limites des approches quantitatives et l’importance du contexte dans l’analyse des marchés financiers
+![image](https://github.com/user-attachments/assets/39fd012b-a334-4885-a8c3-4fbb581233b1)
 
 ---
 
@@ -124,4 +110,3 @@ Ce projet m’a permis de :
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour les détails.
 
 ---
-
